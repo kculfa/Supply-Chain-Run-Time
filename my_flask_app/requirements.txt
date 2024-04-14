@@ -1,3 +1,7 @@
-Flask
+flask
 pandas
 requests
+flask_socketio
+flask_sse
+flask_accept
+flask_cors
