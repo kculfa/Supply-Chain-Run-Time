@@ -1,0 +1,316 @@
+[
+  {
+    "Availability": 61,
+    "Number of products sold": 116,
+    "Price": 89.63409560813533,
+    "SKU": "SKU64",
+    "Stock levels": 50,
+    "Discount": 20,
+    "Discounted Price": 58.26216214528797
+  },
+  {
+    "Availability": 94,
+    "Number of products sold": 163,
+    "Price": 33.69771720664313,
+    "SKU": "SKU65",
+    "Stock levels": 6,
+    "Discount": 20,
+    "Discounted Price": 21.903516184318033
+  },
+  {
+    "Availability": 45,
+    "Number of products sold": 415,
+    "Price": 26.03486977396209,
+    "SKU": "SKU66",
+    "Stock levels": 21,
+    "Discount": 10,
+    "Discounted Price": 19.526152330471568
+  },
+  {
+    "Availability": 83,
+    "Number of products sold": 807,
+    "Price": 87.75543235400107,
+    "SKU": "SKU67",
+    "Stock levels": 52,
+    "Discount": 20,
+    "Discounted Price": 57.0410310301007
+  },
+  {
+    "Availability": 5,
+    "Number of products sold": 863,
+    "Price": 37.93181238279032,
+    "SKU": "SKU68",
+    "Stock levels": 89,
+    "Discount": 0,
+    "Discounted Price": 32.24204052537177
+  },
+  {
+    "Availability": 76,
+    "Number of products sold": 401,
+    "Price": 54.86552851706979,
+    "SKU": "SKU69",
+    "Stock levels": 50,
+    "Discount": 20,
+    "Discounted Price": 35.662593536095365
+  },
+  {
+    "Availability": 30,
+    "Number of products sold": 469,
+    "Price": 47.914541824058766,
+    "SKU": "SKU70",
+    "Stock levels": 39,
+    "Discount": 10,
+    "Discounted Price": 35.93590636804407
+  },
+  {
+    "Availability": 36,
+    "Number of products sold": 517,
+    "Price": 6.381533162747966,
+    "SKU": "SKU71",
+    "Stock levels": 38,
+    "Discount": 10,
+    "Discounted Price": 4.7861498720609745
+  },
+  {
+    "Availability": 17,
+    "Number of products sold": 377,
+    "Price": 90.20442752052809,
+    "SKU": "SKU72",
+    "Stock levels": 37,
+    "Discount": 0,
+    "Discounted Price": 76.67376339244888
+  },
+  {
+    "Availability": 46,
+    "Number of products sold": 33,
+    "Price": 83.8510176813046,
+    "SKU": "SKU73",
+    "Stock levels": 52,
+    "Discount": 10,
+    "Discounted Price": 62.88826326097845
+  },
+  {
+    "Availability": 35,
+    "Number of products sold": 146,
+    "Price": 3.170011413566155,
+    "SKU": "SKU74",
+    "Stock levels": 38,
+    "Discount": 10,
+    "Discounted Price": 2.377508560174616
+  },
+  {
+    "Availability": 4,
+    "Number of products sold": 988,
+    "Price": 92.99688423397066,
+    "SKU": "SKU75",
+    "Stock levels": 37,
+    "Discount": 0,
+    "Discounted Price": 79.04735159887505
+  },
+  {
+    "Availability": 81,
+    "Number of products sold": 670,
+    "Price": 69.10879954743032,
+    "SKU": "SKU76",
+    "Stock levels": 75,
+    "Discount": 20,
+    "Discounted Price": 44.92071970582971
+  },
+  {
+    "Availability": 55,
+    "Number of products sold": 666,
+    "Price": 57.44974295897148,
+    "SKU": "SKU77",
+    "Stock levels": 2,
+    "Discount": 20,
+    "Discounted Price": 37.34233292333146
+  },
+  {
+    "Availability": 98,
+    "Number of products sold": 417,
+    "Price": 6.306883176111915,
+    "SKU": "SKU78",
+    "Stock levels": 89,
+    "Discount": 20,
+    "Discounted Price": 4.099474064472745
+  },
+  {
+    "Availability": 81,
+    "Number of products sold": 711,
+    "Price": 57.05703122110322,
+    "SKU": "SKU79",
+    "Stock levels": 39,
+    "Discount": 20,
+    "Discounted Price": 37.0870702937171
+  },
+  {
+    "Availability": 54,
+    "Number of products sold": 722,
+    "Price": 91.12831835044432,
+    "SKU": "SKU80",
+    "Stock levels": 65,
+    "Discount": 20,
+    "Discounted Price": 59.233406927788806
+  },
+  {
+    "Availability": 33,
+    "Number of products sold": 972,
+    "Price": 72.81920693031822,
+    "SKU": "SKU81",
+    "Stock levels": 74,
+    "Discount": 10,
+    "Discounted Price": 54.61440519773866
+  },
+  {
+    "Availability": 48,
+    "Number of products sold": 246,
+    "Price": 17.034930739467917,
+    "SKU": "SKU82",
+    "Stock levels": 61,
+    "Discount": 10,
+    "Discounted Price": 12.776198054600938
+  },
+  {
+    "Availability": 23,
+    "Number of products sold": 333,
+    "Price": 68.91124621160633,
+    "SKU": "SKU83",
+    "Stock levels": 6,
+    "Discount": 10,
+    "Discounted Price": 51.68343465870474
+  },
+  {
+    "Availability": 50,
+    "Number of products sold": 986,
+    "Price": 89.10436729210225,
+    "SKU": "SKU84",
+    "Stock levels": 96,
+    "Discounted Price": 66.82827546907669
+  },
+  {
+    "Availability": 94,
+    "Number of products sold": 777,
+    "Price": 76.96299441519388,
+    "SKU": "SKU85",
+    "Stock levels": 14,
+    "Discount": 20,
+    "Discounted Price": 50.025946369876024
+  },
+  {
+    "Availability": 56,
+    "Number of products sold": 525,
+    "Price": 19.99817694040422,
+    "SKU": "SKU86",
+    "Stock levels": 57,
+    "Discount": 20,
+    "Discounted Price": 12.998815011262744
+  },
+  {
+    "Availability": 57,
+    "Number of products sold": 59,
+    "Price": 80.41403665035574,
+    "SKU": "SKU87",
+    "Stock levels": 88,
+    "Discount": 20,
+    "Discounted Price": 52.26912382273123
+  },
+  {
+    "Availability": 58,
+    "Number of products sold": 662,
+    "Price": 75.27040697572501,
+    "SKU": "SKU88",
+    "Stock levels": 30,
+    "Discount": 20,
+    "Discounted Price": 48.92576453422126
+  },
+  {
+    "Availability": 100,
+    "Number of products sold": 400,
+    "Price": 97.76008558193868,
+    "SKU": "SKU89",
+    "Stock levels": 82,
+    "Discount": 20,
+    "Discounted Price": 63.544055628260146
+  },
+  {
+    "Availability": 28,
+    "Number of products sold": 875,
+    "Price": 13.881913501359142,
+    "SKU": "SKU90",
+    "Stock levels": 72,
+    "Discount": 10,
+    "Discounted Price": 10.411435126019356
+  },
+  {
+    "Availability": 89,
+    "Number of products sold": 598,
+    "Price": 62.11196546396179,
+    "SKU": "SKU91",
+    "Stock levels": 60,
+    "Discount": 20,
+    "Discounted Price": 40.37277755157516
+  },
+  {
+    "Availability": 75,
+    "Number of products sold": 98,
+    "Price": 47.71423307582023,
+    "SKU": "SKU92",
+    "Stock levels": 84,
+    "Discount": 20,
+    "Discounted Price": 31.01425149928315
+  },
+  {
+    "Availability": 10,
+    "Number of products sold": 727,
+    "Price": 69.29083100290549,
+    "SKU": "SKU93",
+    "Stock levels": 97,
+    "Discount": 0,
+    "Discounted Price": 58.89720635246967
+  },
+  {
+    "Availability": 57,
+    "Number of products sold": 500,
+    "Price": 3.037688724631414,
+    "SKU": "SKU94",
+    "Stock levels": 21,
+    "Discount": 20,
+    "Discounted Price": 1.9744976710104192
+  },
+  {
+    "Availability": 18,
+    "Number of products sold": 991,
+    "Price": 77.90392721944775,
+    "SKU": "SKU95",
+    "Stock levels": 63,
+    "Discount": 0,
+    "Discounted Price": 66.21833813653059
+  },
+  {
+    "Availability": 45,
+    "Number of products sold": 145,
+    "Price": 24.42313142037338,
+    "SKU": "SKU96",
+    "Stock levels": 75,
+    "Discount": 10,
+    "Discounted Price": 18.317348565280035
+  },
+  {
+    "Availability": 12,
+    "Number of products sold": 160,
+    "Price": 3.526111259143416,
+    "SKU": "SKU97",
+    "Stock levels": 84,
+    "Discount": 0,
+    "Discounted Price": 2.9971945702719034
+  },
+  {
+    "Availability": 64,
+    "Number of products sold": 895,
+    "Price": 19.7546048668786,
+    "SKU": "SKU98",
+    "Stock levels": 91,
+    "Discount": 20,
+    "Discounted Price": 12.840493163471091
+  }
+]

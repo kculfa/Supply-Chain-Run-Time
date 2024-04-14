@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Live Data Visualization</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js"></script>
+</head>
+<body>
+    <h2>Live Data Visualization</h2>
+    <canvas id="liveDataChart"></canvas>
+    <script>
+        var socket = io.connect(location.protocol + '//' + document.domain + ':' + location.port);
+        var ctx = document.getElementById('liveDataChart').getContext('2d');
+        var liveChart = new Chart(ctx, {
+            type: 'line', // This is a line chart
+            data: {
+                labels: [], // Our labels (x-axis) - initially empty
+                datasets: [{
+                    label: 'Dataset', // Legend name
+                    backgroundColor: 'rgba(255, 99, 132, 0.2)', // Background color of the line area
+                    borderColor: 'rgba(255, 99, 132, 1)', // Line color
+                    data: [], // Our data points (y-axis) - initially empty
+                }]
+            },
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true // Ensures that y-axis starts at 0
+                    }
+                }
+            }
+        });
+
+        // Listen for 'update' events on the WebSocket
+        socket.on('update', function(data) {
+            // Assuming 'data' is an object like {label: 'someLabel', value: someValue}
+            const { label, value } = data;
+
+            // Update chart data
+            liveChart.data.labels.push(label);
+            liveChart.data.datasets.forEach((dataset) => {
+                dataset.data.push(value);
+            });
+
+            // Ensure that we keep a limited number of labels and data points to avoid clutter
+            if (liveChart.data.labels.length > 20) { // Adjust 20 to your needs
+                liveChart.data.labels.shift(); // Remove the first label
+                liveChart.data.datasets.forEach((dataset) => {
+                    dataset.data.shift(); // Remove the first data point
+                });
+            }
+
+            liveChart.update(); // Refresh the chart
+        });
+    </script>
+</body>
+</html>
