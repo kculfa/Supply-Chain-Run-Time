@@ -1,5 +1,5 @@
 # Supply-Chain-Run-Time
-
+(Latest version that is currently running is in the 'Supply-Chain-Run-Time' under the username ge87jiz)
 After cloning the repoistory, please `cd` into the repository folder that was downloaded. The folder should be called `Supply-Chain-Run-Time` if you do not change it.
 
 **IMPORTANT: PLEASE MAKE SURE TO RUN THE FLASK SERVER BEFORE THE VISUALIZATION**
