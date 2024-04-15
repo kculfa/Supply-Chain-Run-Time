@@ -22,6 +22,6 @@ The visualization requires NodeJS https://nodejs.org/en/download
 4. After that is done, Execute `npm run build`
 5. Execute `npx serve -s build`
 
-The visualization is now available at https://lehre.bpm.in.tum.de/ports/3000/
+The visualization is now available at https://lehre.bpm.in.tum.de/ports/3000/  (IF IT IS NOT AVAILABLE ON THIS LINK PLEASE CHANGE THE 3000 IN THE LINK TO WHATEVER REACT SAYS PORT RUNS ON, FOR EXAMPLE IF IT SAYS- Local:    http://localhost:5555 THEN IT WILL BE AVAILABLE ON https://lehre.bpm.in.tum.de/ports/5555/  THIS IS NOT NEEDED UNLESS THE PORT 3000 IS BEING USED)
 
 The visualization displays the change of the prices of 10 SKUs.
