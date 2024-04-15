@@ -275,7 +275,8 @@ def dummy():
 
     last_read_timestamp = request.args.get('last_read_timestamp')
     # Define the format of the string
-    format_string = "%Y-%m-%d %H:%M:%S %z"
+    #format_string = "%Y-%m-%d %H:%M:%S %z"
+    format_string = "%Y-%m-%d %H:%M:%S"
     format_string_without ="%Y-%m-%d %H:%M:%S"
     if not last_read_timestamp:
         last_read_timestamp = datetime.now().strftime(format_string_without)
